@@ -1,3 +1,5 @@
+![logo](https://github.com/AmogBurhanpure/AMOGSIDDH-BURHANPURE/blob/main/Black%20and%20White%20Illustrative%20Linkedin%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Amogsiddh Burhanpure</h1>
 <h3 align="center">"Turning data into insights and decisions."</h3>
 
